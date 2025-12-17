@@ -4,11 +4,7 @@
 
 ---
 
-
-demo video link - https://youtu.be/z7BkYVm4DY8
-
-
-live web link -- https://giftcardsdf.vercel.app/
+ 
 ## 🚀 What is GiftCard?
 
 **GiftCard** is a web application that enables anyone to create and send crypto gift cards that recipients can redeem in their preferred cryptocurrency on any blockchain—without needing the same wallet, token, or network.
